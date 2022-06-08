@@ -1,13 +1,13 @@
 <p align="center">
-  <a href="https://github.com/SergeyIvanovDevelop/QR-Stego-C++-TFLite">
-    <img alt="Simple-OS" src="./resources/logo.png" width="280" height="280" />
+  <a href="https://github.com/SergeyIvanovDevelop/QR-stego-C_plus_plus_tensorflowlite">
+    <img alt="QR-Stego-TFLite-C++" src="./resources/logo.png" width="280" height="280" />
   </a>
 </p>
 <h1 align="center">
-  QR-Stego-C++-TFLite
+  QR-Stego-TFLite-C++
 </h1>
 
-## QR-Stego-C++-TFLite &middot; [![GitHub license](https://img.shields.io/badge/license-CC%20BY--NC--SA%203.0-blue)](./LICENSE) [![C++](https://img.shields.io/badge/language-C%2B%2B-yellowgreen)](https://isocpp.org/) [![TFLite](https://img.shields.io/badge/ML-TFLite-important)](https://www.tensorflow.org/lite/guide) [![LinkedIn](https://img.shields.io/badge/linkedin-Sergey%20Ivanov-blue)](https://www.linkedin.com/in/sergey-ivanov-33413823a/) [![Telegram](https://img.shields.io/badge/telegram-%40SergeyIvanov__dev-blueviolet)](https://t.me/SergeyIvanov_dev) ##
+## QR-Stego-TFLite-C++ &middot; [![GitHub license](https://img.shields.io/badge/license-CC%20BY--NC--SA%203.0-blue)](./LICENSE) [![C++](https://img.shields.io/badge/language-C%2B%2B-yellowgreen)](https://isocpp.org/) [![TFLite](https://img.shields.io/badge/ML-TFLite-important)](https://www.tensorflow.org/lite/guide) [![LinkedIn](https://img.shields.io/badge/linkedin-Sergey%20Ivanov-blue)](https://www.linkedin.com/in/sergey-ivanov-33413823a/) [![Telegram](https://img.shields.io/badge/telegram-%40SergeyIvanov__dev-blueviolet)](https://t.me/SergeyIvanov_dev) ##
 
 This repository contains code that runs pre-trained artificial neural network models in the `TensorFlow` framework in `Python` that have been converted to `TFLite` models using the `TFLite C++ API`.
 
@@ -36,4 +36,4 @@ When the file `./encoder` is launched, the image `My_QR.png` is embedded into th
 When the file `./decoder` is launched, the image `My_QR.png` is extracted from the image `output_img.jpg` into the image `Extract_QR.png` using neural steganography, which the artificial neural network `reveal_model.tflite` is trained to perform.
 
 ### :bookmark_tabs: Licence ###
-QR-Stego-C++-TFLite is [CC BY-NC-SA 3.0 licensed](./LICENSE).
+QR-Stego-TFLite-C++ is [CC BY-NC-SA 3.0 licensed](./LICENSE).
