@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/SergeyIvanovDevelop/QR-stego-C_plus_plus_tensorflowlite">
-    <img alt="QR-Stego-TFLite-C++" src="./resources/logo.png" width="280" height="280" />
+    <img alt="QR-Stego-TFLite-C++" src="./resources/logo.png" />
   </a>
 </p>
 <h1 align="center">
